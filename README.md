@@ -1,5 +1,5 @@
 # DDos-Attack/y0nakk
-Best DDos Attack taking down servers via CMD (ATTENTION: this file was made for learning purposes only; I am not responsible for such a criminal act)
+A DDos Attack taking down servers via CMD (ATTENTION: this file was made for learning purposes only; I am not responsible for such a criminal act)
 
 # How to run the file
 1. Extract the .zip file and open the .cmd file inside.
